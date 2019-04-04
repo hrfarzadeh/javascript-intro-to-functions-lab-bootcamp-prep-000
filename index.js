@@ -19,7 +19,7 @@ function sayHiToGrandma(String){
   return "I can't hear you!";
 }
   else if(String===inputL){
-  return "YES INDEED";
+  return "YES INDEED!";
   }  
   else if(String===inputF){
   return "I love you, too.";

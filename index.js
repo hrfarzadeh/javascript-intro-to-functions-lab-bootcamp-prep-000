@@ -14,6 +14,7 @@ function logWhisper(String){
 function sayHiToGrandma(String){
   var inputF = "I love you, Grandma.";
   var inputS = String.toLowerCase();
+  var inputL = String.toUpperCase();
   if(String===inputS){
   return "I can't hear you!";
 }
